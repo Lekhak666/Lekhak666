@@ -22,6 +22,13 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 👥 Total Visitors
+
+<p align="center">
+  <img src="https://count.getloli.com/@counteryyy?name=counteryyy&theme=booru-vp&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />        
+</p>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Lekhak666&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
