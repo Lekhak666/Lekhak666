@@ -20,7 +20,7 @@
 
 ## 👥 Total Visitors
 
-<p align="center">
+<p align="center">  
   <img src="https://count.getloli.com/@counteryyy?name=counteryyy&theme=booru-vp&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />        
 </p>
 
